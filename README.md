@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on React
 - 🤔 I’m looking for help with Advice
 - 💬 Ask me about anything
-- ⚡ Fun fact: Cats conserve energy by sleeping for an average of 13 to14 hours a day.
+- ⚡ Fun fact: Cats conserve energy by sleeping for an average of 13 to 14 hours a day.
